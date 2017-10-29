@@ -1,0 +1,22 @@
+src
+test
+coverage
+node_modules/*
+npm-debug.log
+
+#################
+## Misc
+#################
+.DS_Store
+**/.DS_Store
+nbproject
+!*.metadata.json
+!bundles/*.js
+
+#################
+## JetBrains
+#################
+.idea
+.project
+.settings
+data
